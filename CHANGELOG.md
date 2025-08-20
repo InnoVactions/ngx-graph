@@ -2,6 +2,11 @@
 
 ## HEAD (unreleased)
 
+## 11.0.0
+
+- Enhancement: Added support for Angular 20
+- Breaking: Removed support for Angular 17 and earlier versions
+
 ## 11.0.0-alpha.0
 
 - Enhancement: Added support for Angular 20
