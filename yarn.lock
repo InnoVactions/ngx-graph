@@ -12823,7 +12823,7 @@ __metadata:
     storybook: "npm:^8.4.1"
     transformation-matrix: "npm:^2.16.1"
     tslib: "npm:^2.3.1"
-    typescript: "npm:~5.8.3"
+    typescript: "npm:~5.9.3"
     webcola: "npm:^3.4.0"
     webpack: "npm:5"
     zone.js: "npm:~0.15.0"
