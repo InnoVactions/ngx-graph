@@ -19,7 +19,8 @@
     "prepublish:lib": "npm run package",
     "publish:lib": "npm publish ./dist/ngx-graph",
     "publish": "run-s publish:lib",
-    "prepublishOnly": "echo \"This is the workspace -- you probably meant run 'npm run publish'.\" && exit 1"
+    "prepublishOnly": "echo \"This is the workspace -- you probably meant run 'npm run publish'.\" && exit 1",
+    "prepare": "npm install && npm run build:lib"
   },
   "license": "MIT",
   "dependencies": {
